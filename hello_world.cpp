@@ -1,5 +1,6 @@
 #include <iostream>
 
+// Greeting user
 int main() {
     std::string name;
     std::cout << "Enter your name: ";
